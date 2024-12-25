@@ -27,6 +27,8 @@ Welcome to OpenHands (formerly OpenDevin), a platform for software development a
 OpenHands agents can do anything a human developer can: modify code, run commands, browse the web,
 call APIs, and yes—even copy code snippets from StackOverflow.
 
+Note: OpenHands is actively maintained and welcomes contributions from the community.
+
 Learn more at [docs.all-hands.dev](https://docs.all-hands.dev), or jump to the [Quick Start](#-quick-start).
 
 > [!IMPORTANT]
